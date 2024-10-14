@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if sprite is rotated-->
+<TextureAtlas imagePath="texture-0.png" width="1012" height="907" scale="0.5" format="RGBA8888">
+  <sprite n="Rectangle 471 (Small).png" x="0.5" y="0.5" w="427" h="59" pX="0.5" pY="0.5"/>
+  <sprite n="g10 (Small).png" x="428.5" y="0.5" w="427" h="182.5" pX="0.5" pY="0.5"/>
+  <sprite n="Ellipse 26 (Small).png" x="0.5" y="60.5" w="263.5" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 523 (Small).png" x="265" y="184" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 524 (Small).png" x="506" y="184" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 580 (Small).png" x="747" y="184" w="264" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 768 (Small).png" x="0.5" y="301.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 696 (Small).png" x="241.5" y="425" w="264" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 769 (Small).png" x="506.5" y="425" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 770 (Small).png" x="747.5" y="425" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 771 (Small).png" x="0.5" y="542.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 772 (Small).png" x="241.5" y="666" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 773 (Small).png" x="482.5" y="666" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 774 (Small).png" x="723.5" y="666" w="240" h="240" pX="0.5" pY="0.5"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if sprite is rotated-->
+<TextureAtlas imagePath="texture-3.png" width="964" height="729" scale="0.5" format="RGBA8888">
+  <sprite n="setting-2 (Small).png" x="0.5" y="0.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="setting-3 (Small).png" x="241.5" y="0.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="setting-333 (Small).png" x="482.5" y="0.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="shop (Small).png" x="723.5" y="0.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="user-add (Small).png" x="0.5" y="241.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="user-edit (Small).png" x="241.5" y="241.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="user-octagon (Small).png" x="482.5" y="241.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="volume-high (Small).png" x="723.5" y="241.5" w="240" h="240" pX="0.5" pY="0.5"/>
+  <sprite n="Group 7038 (Small).png" x="0.5" y="482.5" w="240" h="246" pX="0.5" pY="0.5"/>
+</TextureAtlas>
